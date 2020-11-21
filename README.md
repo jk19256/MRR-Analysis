@@ -2,8 +2,8 @@
 The main idea behind this task is to calculate MRR (Monthly Recurring Revenue) from the data collected. The main excel file contain two sheets: sales data and license data. 
 
 1. MRR Calculation Strategy:
-1.1. We first tried to understand what are the main parameters in both sheets that may influence the MRR output.
-1.2. We calculated the monthly MRR.
+- We first tried to understand what are the main parameters in both sheets that may influence the MRR output.
+- We calculated the monthly MRR.
 1.3. We calculated the annual dependent MRR after dividing the annual sales over the number of months.
 1.4. We summed both monthly indexed MRR and annual-based indexed MRR together.
 1.5. By that we managed to calculate MRR.
